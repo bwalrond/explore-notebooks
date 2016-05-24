@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
-Mon May 09 08:00:18 EDT 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0154-9563-aeea-00002f9076d8 
-on database directory /Users/bill.walrond/Documents/dsprj/explore-notebooks/jupyter_notebooks/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@6c2f2bd7 
+Mon May 23 07:49:30 EDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0154-dd72-d27a-00002ed26d08 
+on database directory /Users/bill.walrond/Documents/dsprj/explore-notebooks/jupyter_notebooks/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@f36b901 
 Loaded from file:/Users/bill.walrond/opt/spark-1.6.1-bin-hadoop2.6/lib/spark-assembly-1.6.1-hadoop2.6.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_91-b14
 user.dir=/Users/bill.walrond/Documents/dsprj/explore-notebooks/jupyter_notebooks
 os.name=Mac OS X
 os.arch=x86_64
-os.version=10.11.4
+os.version=10.11.5
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
