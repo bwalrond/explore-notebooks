@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Wed Jun 01 07:51:29 EDT 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0155-0bcd-e03a-00002f360c48 
-on database directory /Users/bill.walrond/Documents/dsprj/explore-notebooks/jupyter_notebooks/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7d89c4da 
+Fri Jun 03 15:45:42 EDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0155-17cc-c03f-00002f2e4948 
+on database directory /Users/bill.walrond/Documents/dsprj/explore-notebooks/jupyter_notebooks/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@4da49398 
 Loaded from file:/Users/bill.walrond/opt/spark-1.6.1-bin-hadoop2.6/lib/spark-assembly-1.6.1-hadoop2.6.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_91-b14
